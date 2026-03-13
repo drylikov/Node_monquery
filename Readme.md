@@ -1,4 +1,4 @@
-# monquery
+# Monquery.
 
   Lucene-inspired string-based mongodb query language for humans (and ferrets).
 ## Installation
