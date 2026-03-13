@@ -105,4 +105,3 @@ yields
 ```js
 { '$and': [ { level: 'error' }, { hostname: /^api-.*$/ } ] }
 ```
-
