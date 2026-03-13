@@ -106,5 +106,3 @@ yields
 { '$and': [ { level: 'error' }, { hostname: /^api-.*$/ } ] }
 ```
 
-
-
