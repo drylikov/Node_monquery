@@ -1,7 +1,6 @@
 # monquery
 
   Lucene-inspired string-based mongodb query language for humans (and ferrets).
-
 ## Installation
 
 ```
@@ -106,7 +105,6 @@ yields
 ```js
 { '$and': [ { level: 'error' }, { hostname: /^api-.*$/ } ] }
 ```
-
 
 
 
